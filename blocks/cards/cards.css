@@ -13,7 +13,7 @@
 
 .cards > ul > li {
   border: var(--shape-border-width-1) solid var(--color-neutral-500);
-  background-color: #FA8072;
+  background-color: #00FF00;
 }
 
 .cards .cards-card-body {
